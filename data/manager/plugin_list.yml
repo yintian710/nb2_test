@@ -1,0 +1,162 @@
+avatar:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+bangumi:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+compiler:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+draw:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+echo:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+emoji:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+fortune:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+help:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+logo:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+music:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+nhdgirl:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+nonebot.plugins.echo:
+  default: true
+  global: null
+  group: {}
+  ignore: true
+  user: {}
+nonebot_plugin_apscheduler:
+  default: true
+  global: null
+  group: {}
+  ignore: true
+  user: {}
+nonebot_plugin_manager:
+  default: true
+  global: null
+  group: {}
+  ignore: true
+  user: {}
+nonebot_plugin_test:
+  default: true
+  global: null
+  group: {}
+  ignore: true
+  user: {}
+pixiv:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+repeat:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+rss:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+setu:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+speak:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+steam:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+test:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+tex:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+text:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+welcome:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+wolfram:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
+words:
+  default: true
+  global: null
+  group: {}
+  ignore: false
+  user: {}
